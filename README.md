@@ -26,8 +26,5 @@ Follow these steps to run the project on your local machine:
 ✔️ Simple and elegant UI
 ✔️ Built using React hooks
 
-## 🖼️ Screenshot
-(Add a screenshot of your clock here for a nice touch!)
-
 ## 📜 License
 This project is open-source. Feel free to modify and improve it! 🚀

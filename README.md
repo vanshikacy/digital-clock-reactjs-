@@ -1,6 +1,5 @@
 # React Digital Clock  
 
-## Overview  
 A **digital clock** built with **React.js** and **Vite**. It dynamically displays the current time and updates in real-time. This project was created to practice React and component-based development.  
 
 ## Tech Stack  

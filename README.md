@@ -1,15 +1,13 @@
-# ⏰ React Digital Clock  
+# React Digital Clock  
 
-## 📌 Overview  
-A **beautiful digital clock** built with **React.js** and **Vite**. It dynamically displays the current time and updates in real-time. This project was created to practice React and component-based development.  
+## Overview  
+A **digital clock** built with **React.js** and **Vite**. It dynamically displays the current time and updates in real-time. This project was created to practice React and component-based development.  
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 - **React.js** (with Vite for fast development)  
 - **CSS** (for styling)  
 
-## 🚀 Installation & Usage  
-Follow these steps to run the project on your local machine:  
-
+## Installation & Usage  
 1. **Clone this repository:**  
    git clone https://github.com/your-username/react-digital-clock.git
    cd react-digital-clock

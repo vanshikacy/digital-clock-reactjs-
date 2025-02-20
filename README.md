@@ -18,10 +18,10 @@ A **digital clock** built with **React.js** and **Vite**. It dynamically display
    http://localhost:5173/
 
 
-## ✨ Features
+## Features
 ✔️ Real-time time updates
 ✔️ Simple and elegant UI
 ✔️ Built using React hooks
 
-## 📜 License
+## License
 This project is open-source. Feel free to modify and improve it! 🚀
